@@ -1,0 +1,1 @@
+package characterman_test
